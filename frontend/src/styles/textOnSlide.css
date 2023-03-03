@@ -1,0 +1,15 @@
+.slider-title {
+    position: absolute;
+    top: 63%;
+    font-size: 2.5rem;
+    color: #fff;
+    z-index: 10;
+}
+
+.slider-sub-title {
+    position: absolute;
+    top: 75%;
+    font-size: 1.5rem;
+    color: #fff;
+    z-index: 10;
+}
